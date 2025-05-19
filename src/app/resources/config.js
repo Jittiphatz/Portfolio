@@ -15,13 +15,14 @@ const protectedRoutes = {
   "": false,
 };
 
-import { Anuphan } from "next/font/google";
+import { IBM_Plex_Sans_Thai } from "next/font/google";
 import { Geist_Mono } from "next/font/google";
 
-const primaryFont = Anuphan({
+const primaryFont = IBM_Plex_Sans_Thai({
   variable: "--font-primary",
   subsets: ["latin"],
   display: "swap",
+  weight: ["400"],
 });
 
 const monoFont = Geist_Mono({
