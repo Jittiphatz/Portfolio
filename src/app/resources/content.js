@@ -6,7 +6,7 @@ const person = {
   },
   role: "Student / Drummer / Website Developer / Frontend Developer ",
   avatar: "/images/avatar.png",
-  email: "Jittiphat@jittiphat.site",
+  email: "Jittiphat@jittiphat.space",
   location: "Asia/Bangkok", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["Thailand", "Nakhon Ratchasima"], // optional: Leave the array empty if you don't want to display languages
 };
@@ -75,7 +75,7 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "mailto:Jittiphat@jittiphat.site",
+    link: "mailto:Jittiphat@jittiphat.space",
   },
   intro: {
     display: true,
