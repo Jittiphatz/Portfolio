@@ -1,6 +1,6 @@
 # **Portfolio Website | Next.JS + Tailwind CSS + Once-Ui + Lenis**
 
-View the [demo here](https://portfolio.jittiphat.site).
+View the [demo here](https://portfolio.jittiphat.space).
 
 ![Portfolio](public/images/cover.png)
 
